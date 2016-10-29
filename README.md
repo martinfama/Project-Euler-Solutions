@@ -1,2 +1,2 @@
 # Project-Euler-Solutions
-My collection of Project Euler solutions
+A collection of some of my Project Euler solutions

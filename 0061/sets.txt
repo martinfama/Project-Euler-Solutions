@@ -1,0 +1,32 @@
+Checking combinations between set 0 and set 1
+    Found a valid chain: 2556, 5625
+Checking combinations between set 0 and set 2
+Checking combinations between set 0 and set 3
+    Found a valid chain: 6555, 5565
+Checking combinations between set 0 and set 4
+    Found a valid chain: 1225, 2512
+Checking combinations between set 0 and set 5
+    Found a valid chain: 3321, 2133
+Checking combinations between set 1 and set 2
+Checking combinations between set 1 and set 3
+    Found a valid chain: 5625, 2556
+Checking combinations between set 1 and set 4
+    Found a valid chain: 1089, 8910
+    Found a valid chain: 1225, 2512
+Checking combinations between set 1 and set 5
+Checking combinations between set 2 and set 3
+Checking combinations between set 2 and set 4
+Checking combinations between set 2 and set 5
+    Found a valid chain: 4510, 1045
+Checking combinations between set 3 and set 4
+    Found a valid chain: 1225, 2512
+Checking combinations between set 3 and set 5
+    Found a valid chain: 3321, 2133
+Checking combinations between set 4 and set 5
+
+2556 -> 5625
+6555 -> 5565
+1225 -> 2512
+3321 -> 2133
+1089 -> 8910
+4510 -> 1045
